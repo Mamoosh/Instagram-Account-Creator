@@ -18,7 +18,7 @@ The script uses Selenium WebDriver to interact with Instagram's signup page and 
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/instagram-account-creator.git
+git clone https://github.com/Mamoosh/Instagram-Account-Creator.git
 
 2. Install the required Python packages:
 
@@ -40,8 +40,6 @@ If you encounter any problems or have any questions, please open an issue in thi
 ## Authors
 
 Contributors names and contact info
-
-ex. @yourusername
 
 ## Version History
 
